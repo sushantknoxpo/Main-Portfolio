@@ -1,16 +1,22 @@
-import React from "react"
+ import React from "react"
 
 const experienceContent = [
   {
-    year: "2023-present",
-    position: "React.js Developer(Junior)",
+    year: "2023 - present",
+    position: "React.js Intern",
     compnayName: "ATG (Across The Globe)",
   },
    {
-    year: "2022",
+    year: "2022 - 2023",
     position: "Full Stack web Development Course",
     compnayName: "Newton School (Remote)",
-    details: `Completed A full stack web development course & learn - Mongo DB,Express, React.JS, Node.JS`,
+    details: `Completed A full stack web development course & learn -  React.JS, Mongo DB, Express, Node.JS`,
+  },
+  {
+    year: "2020 - 2022",
+    position: "Tour Coordinator",
+    compnayName: "Bherwal Tourisem",
+    details: `After completing my graduation, I took up my father's tourism business, and when everything came back on track, I started pursuing my dream.`,
   },
 ]
 
