@@ -1,17 +1,19 @@
- import React from "react"
+import React from "react"
 
 const experienceContent = [
   {
     year: "April-2023 - Present",
     position: "Frontend Developer",
     compnayName: "Knoxpo",
+    details: `Collaborating with designers, backend developers, and other team members to develop and implement user-friendly and visually appealing interfaces for websites and applications.`,
   },
   {
     year: "Jan-2023 - April-2023",
     position: "React.js Intern",
     compnayName: "ATG (Across The Globe)",
+    details :`Participating in the development of user interfaces for websites and applications using React.js.`
   },
-   {
+  {
     year: "2022 - 2023",
     position: "Full Stack web Development Course",
     compnayName: "Newton School (Remote)",
