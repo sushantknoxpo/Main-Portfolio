@@ -21,6 +21,7 @@ const Portfolio = () => {
             <Tab>JAVASCRIPT</Tab>
             <Tab>REACT.JS</Tab>
             <Tab>HTML & CSS</Tab>
+            <Tab>NEXT.JS</Tab>
           </TabList>
 
           <div className="container">
