@@ -2,7 +2,12 @@
 
 const experienceContent = [
   {
-    year: "2023 - present",
+    year: "April-2023 - Present",
+    position: "Frontend Developer",
+    compnayName: "Knoxpo",
+  },
+  {
+    year: "Jan-2023 - April-2023",
     position: "React.js Intern",
     compnayName: "ATG (Across The Globe)",
   },
