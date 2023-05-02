@@ -4,8 +4,14 @@ const educationContent = [
   {
     year: "2017 - 2020",
     degree: "BACHELOR DEGREE",
-    institute: "MAHARANA PARTAP GOVT. COLLEGE AMB",
+    institute: "MAHARANA PARTAP GOVT. COLLEGE AMB (Affliated by H.P.U)",
     details: `Completed my bachelor degree in Computer Applications From H.P.U`,
+  },
+   {
+    year: "2015-2017",
+    degree: "Senior Secondary",
+    institute: "Govt. Sen. Sec. School Diara (Himachal Pardesh State Board)",
+    details: `Non-Medical`,
   },
 ]
 

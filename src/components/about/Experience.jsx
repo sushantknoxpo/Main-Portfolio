@@ -22,8 +22,8 @@ const experienceContent = [
   {
     year: "2020 - 2022",
     position: "Tour Coordinator",
-    compnayName: "Bherwal Tourisem",
-    details: `After completing my graduation, I took up my father's tourism business, and when everything came back on track, I started pursuing my dream.`,
+    compnayName: "Bherwal Tourism",
+    details: `Plans, organizes, and manages group tours, including transportation, accommodations, and activities.`,
   },
 ]
 
